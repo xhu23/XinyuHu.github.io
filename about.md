@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Xinyu. Currently I am taking ST 558 at NC State!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a lovely 7-month daugher who takes most of my time :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xhu23@ncsu.edu](mailto:xhu23@ncsu.edu)
