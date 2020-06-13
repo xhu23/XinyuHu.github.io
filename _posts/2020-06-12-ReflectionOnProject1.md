@@ -3,7 +3,7 @@ layout: post
 title: Reflection on Project 1
 ---
 
-Project 1 was very interesting experience for me. I felt difficult to figure out the process line in the very beginning, an dgradually have a better picture while doing it step by step. Though I am still facing problem like, could not set up the github page, the plots all disappeared in the README.md file, I have learnt a lot along the way.  
+Project 1 was very interesting experience for me. I felt difficult to figure out the process line in the very beginning,  and gradully have a better picture while doing it step by step. Though I am still facing problem like, the plots all disappeared in the README.md file, I have learnt a lot along the way.  
 
 My project 1 link is [here](https://xhu23.github.io/project1)  
 
