@@ -15,8 +15,8 @@ Project 1 was very interesting experience for me. I felt difficult to figure out
 I think I should start earlier, and also read more discussion than googling when I have question. Even though some questions asked in the discussion seems not intuitive to me, I can save so much time by avoiding unnecessary search.
 
 *What was the most difficult part for you?*  
-I cannot find the tab to **enable github page** and also, when push markdown file directly from Rstudio, plots are gone.
+I cannot find the tab to **enable github page** and also, when push markdown file directly from Rstudio, **plots are gone**.  
 
 *What are the big take-away from this project?*  
-Experience matters. Having more exposure to the project like this will better equip me for the job market.
+Experience matters. Having more exposure to the project like this will better equip me for the job market.  
 
